@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) Facebook, Inc. and its affiliates. -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.facebook.witai.voicedemo">
+
+    <!-- Added permissions -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_food"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_food_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Sunny1"></activity>
+        <activity android:name=".Sunny2"></activity>
+        <activity android:name=".Sunny3"></activity>
+        <activity android:name=".Sunny4"></activity>
+        <activity android:name=".Sunny5"></activity>
+        <activity android:name=".Rainy1"></activity>
+        <activity android:name=".Rainy2"></activity>
+        <activity android:name=".Rainy3"></activity>
+        <activity android:name=".Rainy4"></activity>
+        <activity android:name=".Rainy5"></activity>
+        <activity android:name=".Cloudy1"></activity>
+        <activity android:name=".Cloudy2"></activity>
+        <activity android:name=".Cloudy3"></activity>
+        <activity android:name=".Cloudy4"></activity>
+        <activity android:name=".Cloudy5"></activity>
+        <activity android:name=".Snowy1"></activity>
+        <activity android:name=".Snowy2"></activity>
+        <activity android:name=".Snowy3"></activity>
+        <activity android:name=".Snowy4"></activity>
+        <activity android:name=".Snowy5"></activity>
+        <activity android:name=".Windy1"></activity>
+        <activity android:name=".Windy2"></activity>
+        <activity android:name=".Windy3"></activity>
+        <activity android:name=".Windy4"></activity>
+        <activity android:name=".Windy5"></activity>
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

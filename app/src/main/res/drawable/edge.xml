@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+    <item>
+        <shape android:shape="rectangle" >
+            //textview 테두리색
+            <solid android:color="#16000000" />
+        </shape>
+    </item>
+    <item
+        android:bottom="8dp">
+        //android:top="8dp"
+        <shape android:shape="rectangle" >
+            //textview배경색
+            <solid android:color="#F8F8F8" />
+        </shape>
+    </item>
+
+
+
+</layer-list>
