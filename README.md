@@ -1,21 +1,24 @@
-# Get Food Recommendation with Wit.ai
+# Foopy's Choice
 
+Weather-based food recommendation service
+(2021.08.03~2021.09.03)
 
 https://user-images.githubusercontent.com/77844152/131990939-dd0d5262-b049-4c74-99c8-30d718669a32.png
 ## Overview
 
-In this tutorial, we will be creating a voice-enabled Android app that greets the user. The app will be able to process the user's voice response and respond to the user appropriately. The key things we will explore is how to:
+In this project, we will be creating a voice-enabled Android app that greets the user. The app will be able to process the user's voice response and respond to the user appropriately. The key things we will explore is how to:
 
 *   Design the user interaction
-*   Create and train a Wit app to do natural language processing (NLP)
-*   Integrate Wit with your Android app
+*   Create and train a Wit app to do natural language processing (NLP) to catogorize weather
+*   Integrate Wit with Android app
+*   Randomly recommend recipes based on weather
 
-영상올리기
+## Prerequisites  
 
-## Prerequisites
+You can download this applicaiton in google play store(to be modified)
 
-*   Create a [Wit.ai](https://wit.ai/) account
-*   Download the [Wit.ai Voice demo base-setup](https://github.com/wit-ai/android-voice-demo/tree/base-setup) branch from GitHub
+If you want to modify the files or download the files
+*   Clone this repository [Foopy's Choice](https://github.com/guen-a-park/Foopys-Choice.git) or Download Zip
 *   Download and install [Android Studio](https://developer.android.com/studio)
 *   Have an Android device/emulator with
     *   Internet access
@@ -48,6 +51,8 @@ User: "My name is Pan"
 
 Wit:  "Nice to meet you Pan!"
 ```
+
+
 ## Reference
 https://github.com/haerulmuttaqin/FoodsApp-starting-code
 https://github.com/wit-ai/android-voice-demo
