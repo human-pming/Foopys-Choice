@@ -18,9 +18,9 @@ Tell Foopy about today's weather. Foopy will recommend today's food right away! 
 
 Be careful with the sound🔊
 
-[![](https://user-images.githubusercontent.com/77844152/132012088-c0ecafe7-7f9c-49cd-963e-632820ce175a.png)](https://youtu.be/qVZyhcS-yyk)
+https://user-images.githubusercontent.com/77844152/132012703-8054ec47-bff0-41d5-9034-8ffca07ba90b.mp4
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/qVZyhcS-yyk" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+
 
 ## Prerequisites  
 
