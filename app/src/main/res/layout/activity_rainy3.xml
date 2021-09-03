@@ -26,7 +26,7 @@
                 android:layout_marginTop="30dp"
                 android:layout_marginBottom="20dp"
                 android:layout_marginLeft="20dp"
-                android:src="@drawable/salad"
+                android:src="@drawable/bar"
                 tools:ignore="DuplicateIds" />
 
 
@@ -41,13 +41,13 @@
 
                 <TextView
                     android:id="@+id/textView3"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
                     android:layout_marginTop="25dp"
-                    android:layout_marginEnd="5dp"
+                    android:layout_marginEnd="10dp"
                     android:layout_marginBottom="141dp"
-                    android:text="Chicken Quinoa Greek Salad"
+                    android:text="Barbecue Pork Ribs"
                     android:textSize="23sp"
                     android:textStyle="bold"
                     app:layout_constraintBottom_toBottomOf="parent"
@@ -86,7 +86,7 @@
                     android:layout_marginEnd="16dp"
                     android:numStars="5"
                     android:progressTint="#568A35"
-                    android:rating="2"
+                    android:rating="4"
                     android:stepSize="0.5"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.0"
@@ -129,28 +129,28 @@
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Calories\n(per 150g)\n 150.75kcal"
+                android:text="Calories\n(per 150g)\n 412.5kcal"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Carbs\n\n1.59g"
+                android:text="Carbs\n\n19.5g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Fat\n\n12.27g"
+                android:text="Fat\n\n21g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Protein\n\n8.33g"
+                android:text="Protein\n\n39g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
@@ -179,17 +179,7 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
 
-                android:text="\n225g Quinoa,
-25g Butter,
-1 Chopped Red Chilli,
-1 clove finely chopped Garlic,
-400g Chicken Breast,
-3 tbs Olive Oil,
-Handful Black Olives,
-1 chopped Red Onions,
-100f Feta,
-Chopped Mint,
-Juice of 1/2 Lemon\n
+                android:text="\n 2.5 tsp paprika powder, 2 tsp garlic powder, 1.5 tsp onion powder, 1 tsp cayenne pepper, 1.5 tsp dried thyme, 1.5 tsp dried oregano, 1.5 tsp salt, 0.5 tsp black pepper\n
 "
                 android:background="@drawable/edge"
                 android:textSize="20sp" />
@@ -210,13 +200,21 @@ Juice of 1/2 Lemon\n
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
                 android:background="@drawable/edge"
-                android:text="\n 1. Cook the quinoa following the pack instructions, then rinse in cold water and drain thoroughly. Meanwhile, mix the butter, chilli and garlic into a paste.
-\n2. Toss the chicken fillets in 2 tsp of the olive oil with some seasoning.
-\n3. Lay in a hot griddle pan and cook for 3-4 mins each side or until cooked through. Transfer to a plate, dot with the spicy butter and set aside to melt.
-\n4. Next, tip the tomatoes, olives, onion, feta and mint into a bowl.
-Toss in the cooked quinoa.
-\n5. Stir through the remaining olive oil, lemon juice and zest, and season well.
-\n6. Serve with the chicken fillets on top, drizzled with any buttery chicken juices.\n
+                android:text="\n1, Combine the Rub ingredients and rub onto both sides of the ribs (most on meaty side). Set aside to marinate for 20 minutes (or overnight).
+
+\n2. Place ribs on a tray in a single layer. Pour apple cider underneath the ribs, cover with foil then bake for 1 hour 30 minutes or until the meat is pretty tender
+
+\n3. Remove from oven, turn up to 180°C/350°F. Remove foil, drizzle with olive oil, then return ribs to oven for 15 minutes or until rub becomes nice and crusty.
+
+\n4. Line a new tray with foil then baking / parchment paper (you'll thank me later).
+
+\n5. Remove ribs from oven, transfer to lined tray. Pour any juices from tray over the ribs.
+
+\n6. Flip ribs so the bonier side is up. Slather with Barbecue Sauce, then bake 10 minutes.
+
+\n7. Remove from the oven, then turn ribs over so the meaty side is up. Slather with Barbecue Sauce, bake for 5 minutes. Repeat 2 or 3 more times until you've got a thick glaze on the ribs.
+
+\n8. Cut ribs into individual or multiple rib portions and serve with remaining Barbecue Sauce!\n
 "
                 android:textSize="20sp"
                 />

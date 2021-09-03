@@ -86,7 +86,7 @@
                     android:layout_marginEnd="16dp"
                     android:numStars="5"
                     android:progressTint="#568A35"
-                    android:rating="2"
+                    android:rating="5"
                     android:stepSize="0.5"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.0"
@@ -129,28 +129,28 @@
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Calories\n(per 150g)\n 150.75kcal"
+                android:text="Calories\n(per 150g)\n 183.6kcal"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Carbs\n\n1.59g"
+                android:text="Carbs\n\n28.8g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Fat\n\n12.27g"
+                android:text="Fat\n\n3.6g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Protein\n\n8.33g"
+                android:text="Protein\n\n9g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
@@ -179,17 +179,25 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
 
-                android:text="\n225g Quinoa,
-25g Butter,
-1 Chopped Red Chilli,
-1 clove finely chopped Garlic,
-400g Chicken Breast,
-3 tbs Olive Oil,
-Handful Black Olives,
-1 chopped Red Onions,
-100f Feta,
-Chopped Mint,
-Juice of 1/2 Lemon\n
+                android:text="\n2 large Aubergine
+
+4 Courgettes
+
+2 Yellow Pepper
+
+4 large Tomato
+
+5 tbs Olive Oil
+
+Bunch Basil
+
+1 medium Onion
+
+3 finely chopped Garlic Clove
+
+1 tsp Red Wine Vinegar
+
+1 tsp Sugar\n
 "
                 android:background="@drawable/edge"
                 android:textSize="20sp" />
@@ -210,16 +218,51 @@ Juice of 1/2 Lemon\n
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
                 android:background="@drawable/edge"
-                android:text="\n 1. Cook the quinoa following the pack instructions, then rinse in cold water and drain thoroughly. Meanwhile, mix the butter, chilli and garlic into a paste.
-\n2. Toss the chicken fillets in 2 tsp of the olive oil with some seasoning.
-\n3. Lay in a hot griddle pan and cook for 3-4 mins each side or until cooked through. Transfer to a plate, dot with the spicy butter and set aside to melt.
-\n4. Next, tip the tomatoes, olives, onion, feta and mint into a bowl.
-Toss in the cooked quinoa.
-\n5. Stir through the remaining olive oil, lemon juice and zest, and season well.
-\n6. Serve with the chicken fillets on top, drizzled with any buttery chicken juices.\n
+                android:text="\n 1.Cut the aubergines in half lengthways.
+
+\n2.Place them on the board, cut side down, slice in half lengthways again and them across into 1.5cm chunks.
+
+\n3.Cut off the courgettes ends, then across into 1.5cm slices.
+
+\n4.Peel the peppers from stalk to bottom.
+
+\n5.Hold upright, cut around the stalk, them cut into 3 pieces.
+
+\n6.Cut away any membrane, then chop into bite-size chunks.
+
+\n7.Score a small cross on the base of each tomato, them put them into a heatproof bowl.
+
+\n8.Pour boiling water over the tomatoes, leave for 20 secs, then remove.
+
+\n9.Pour the water away, replace the tomatoes and cover with cold water.
+
+\n10.Leave to cool, them peel the skin away.
+
+\n11.Quarter the tomatoes, scrape away the seeds with a spoon, then roughly chop the flesh.
+
+\n12.Set a saute pan over medium heat and when hot, pour in 2 tbsp olive oil
+\n13.Brown the aubergines for 5 mins on each side until the pieces are soft.
+
+\n14.Set them aside and fry the courgettes in another tbsp(table spoon) oil for 5 mins, until golden on both sides.
+
+\n15.Repeat with the peppers.
+
+\n16.Don’t overcook the vegetables at this stage, as they have some more cooking left in the next step.
+
+\n17.Tear up the basil leaves and set aside.
+
+\n18.Cook the onion in the pan for 5 mins.
+
+\n19.Add the garlic and fry for a further min.
+
+\n20.Stir in the vinegar and sugar, then tip in the tomatoes and half the basil.
+
+\n21.Return the vegetables to the pan with some salt and pepper and cook for 5 mins.
+
+\n22.Serve with basil.\n
 "
-                android:textSize="20sp"
-                />
+                android:textSize="20sp" />
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

@@ -26,7 +26,7 @@
                 android:layout_marginTop="30dp"
                 android:layout_marginBottom="20dp"
                 android:layout_marginLeft="20dp"
-                android:src="@drawable/salad"
+                android:src="@drawable/car"
                 tools:ignore="DuplicateIds" />
 
 
@@ -41,13 +41,13 @@
 
                 <TextView
                     android:id="@+id/textView3"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
                     android:layout_marginTop="25dp"
-                    android:layout_marginEnd="5dp"
+                    android:layout_marginEnd="10dp"
                     android:layout_marginBottom="141dp"
-                    android:text="Chicken Quinoa Greek Salad"
+                    android:text="Carbonara Pasta"
                     android:textSize="23sp"
                     android:textStyle="bold"
                     app:layout_constraintBottom_toBottomOf="parent"
@@ -129,28 +129,28 @@
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Calories\n(per 150g)\n 150.75kcal"
+                android:text="Calories\n(per 150g)\n 384kcal"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Carbs\n\n1.59g"
+                android:text="Carbs\n\n51.7g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Fat\n\n12.27g"
+                android:text="Fat\n\n10.67g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Protein\n\n8.33g"
+                android:text="Protein\n\n16.18g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
@@ -179,17 +179,7 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
 
-                android:text="\n225g Quinoa,
-25g Butter,
-1 Chopped Red Chilli,
-1 clove finely chopped Garlic,
-400g Chicken Breast,
-3 tbs Olive Oil,
-Handful Black Olives,
-1 chopped Red Onions,
-100f Feta,
-Chopped Mint,
-Juice of 1/2 Lemon\n
+                android:text="\n1 package spaghetti, 12 slices bacon, 2 tablespoons olive oil, divided, 1 onion, 2 garlic, ¼ cup dry vermouth, 1 cup shredded Parmesan cheese, ½ cup whipping cream, 4 eggs, 1 tablespoon ground black pepper\n
 "
                 android:background="@drawable/edge"
                 android:textSize="20sp" />
@@ -210,13 +200,13 @@ Juice of 1/2 Lemon\n
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
                 android:background="@drawable/edge"
-                android:text="\n 1. Cook the quinoa following the pack instructions, then rinse in cold water and drain thoroughly. Meanwhile, mix the butter, chilli and garlic into a paste.
-\n2. Toss the chicken fillets in 2 tsp of the olive oil with some seasoning.
-\n3. Lay in a hot griddle pan and cook for 3-4 mins each side or until cooked through. Transfer to a plate, dot with the spicy butter and set aside to melt.
-\n4. Next, tip the tomatoes, olives, onion, feta and mint into a bowl.
-Toss in the cooked quinoa.
-\n5. Stir through the remaining olive oil, lemon juice and zest, and season well.
-\n6. Serve with the chicken fillets on top, drizzled with any buttery chicken juices.\n
+                android:text="\n1. Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes.
+
+\n2. Meanwhile, place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels. Reserve 2 tablespoons bacon fat in the skillet and discard the rest. Chop bacon when cool enough to handle.
+
+\n3. Add 1 tablespoon olive oil and onion to reserved bacon fat in the skillet. Cook over medium-high heat until the onion has softened and turned translucent, about 5 minutes. Add garlic and cook until fragrant, about 1 minute. Pour vermouth into the pan and bring to a boil while scraping the browned bits of food off the bottom of the pan with a wooden spoon, about 1 minute. Mix in chopped bacon.
+
+\n4. Drain spaghetti, transfer to a large serving bowl, and mix in remaining 1 tablespoon oil. Add bacon-onion mixture, Parmesan cheese, cream, eggs, and pepper to the hot pasta; stir until spaghetti is well coated and sauce is creamy.\n
 "
                 android:textSize="20sp"
                 />

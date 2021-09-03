@@ -86,7 +86,7 @@
                     android:layout_marginEnd="16dp"
                     android:numStars="5"
                     android:progressTint="#568A35"
-                    android:rating="2"
+                    android:rating="5"
                     android:stepSize="0.5"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.0"
@@ -129,28 +129,28 @@
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Calories\n(per 150g)\n 150.75kcal"
+                android:text="Calories\n(per 150g)\n 339.2kcal"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Carbs\n\n1.59g"
+                android:text="Carbs\n\n35g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Fat\n\n12.27g"
+                android:text="Fat\n\n8g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Protein\n\n8.33g"
+                android:text="Protein\n\n13g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
@@ -179,17 +179,33 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
 
-                android:text="\n225g Quinoa,
-25g Butter,
-1 Chopped Red Chilli,
-1 clove finely chopped Garlic,
-400g Chicken Breast,
-3 tbs Olive Oil,
-Handful Black Olives,
-1 chopped Red Onions,
-100f Feta,
-Chopped Mint,
-Juice of 1/2 Lemon\n
+                android:text="\n4-6 Chicken Breasts
+
+1 bottle Vinaigrette Dressing
+
+0.5 tablespoon Cumin
+
+1 tablespoon Smoked Parprika
+
+1 teaspoon Garlic
+
+1 can Refried Beans
+
+12 Hard Taco Shells
+
+2 cups Shredded Mexican Cheese
+
+Halved Grape Tomatoes
+
+Sliced and Seeded Jalapeno
+
+Peeled and Sliced Avocado
+
+2 tablespoons Green Salsa
+
+3 tablespoons Sour Cream
+
+1 tablespoon Milk\n
 "
                 android:background="@drawable/edge"
                 android:textSize="20sp" />
@@ -210,13 +226,35 @@ Juice of 1/2 Lemon\n
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
                 android:background="@drawable/edge"
-                android:text="\n 1. Cook the quinoa following the pack instructions, then rinse in cold water and drain thoroughly. Meanwhile, mix the butter, chilli and garlic into a paste.
-\n2. Toss the chicken fillets in 2 tsp of the olive oil with some seasoning.
-\n3. Lay in a hot griddle pan and cook for 3-4 mins each side or until cooked through. Transfer to a plate, dot with the spicy butter and set aside to melt.
-\n4. Next, tip the tomatoes, olives, onion, feta and mint into a bowl.
-Toss in the cooked quinoa.
-\n5. Stir through the remaining olive oil, lemon juice and zest, and season well.
-\n6. Serve with the chicken fillets on top, drizzled with any buttery chicken juices.\n
+                android:text="\n1.Put the uncooked chicken breasts in the crock pot.
+\n2.Pout the full bottle of salad dressing over the chicken.
+\n3.Sprinkle the rest of the ingredients over the top and mix them in a bit with a spoon.
+\n4.Cover your crock pot with the lid and cook on high for 4 hours.
+\n5.Remove all the chicken breasts from the crock pot and let cool/
+\n6.Shred the chicken breasts and move to a glass bowl.
+\n7.Pour most of the liquid over the shredded chicken.
+\nFOR THE TACOS:
+\n1. Make the guacamole sauce by mixing the avocado and green salsa together.
+
+\n2. Pour the guacamole mixture through a strainer until smooth and transfer to a squeeze bottle.
+
+\n3. Cut the tip off the lid of the squeeze bottle to make the opening more wide if needed.
+
+\n4. MAke the sour cream sauce by mixing the sour cream and milk together until you get a more liquid sour cream sauce.
+
+\n5. Transfer to a squeeze bottle.
+
+\n6. In a 9 x 13 glass baking dish, fill all 12+tacos with a layer of refried beans, cooked chicken and shredded cheese.
+
+\n7. Bake at 450 for 10-15 minutes just until the cheese is melted and bubbling.
+
+\n8. Out of the oven top all the tacos with the sliced grape tomatoes, jalapeno and cilantro.
+
+\n9. Finish with a drizzle of guacamole and sour cream.
+
+\n10. Enjoy!
+
+\n
 "
                 android:textSize="20sp"
                 />

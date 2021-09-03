@@ -41,11 +41,11 @@
 
                 <TextView
                     android:id="@+id/textView3"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
                     android:layout_marginTop="25dp"
-                    android:layout_marginEnd="5dp"
+                    android:layout_marginEnd="10dp"
                     android:layout_marginBottom="141dp"
                     android:text="Turkey Meatloaf"
                     android:textSize="23sp"
@@ -86,7 +86,7 @@
                     android:layout_marginEnd="16dp"
                     android:numStars="5"
                     android:progressTint="#568A35"
-                    android:rating="2"
+                    android:rating="4"
                     android:stepSize="0.5"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.0"
@@ -129,28 +129,28 @@
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Calories\n(per 150g)\n 150.75kcal"
+                android:text="Calories\n(per 150g)\n 212.3kcal"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Carbs\n\n1.59g"
+                android:text="Carbs\n\n16.5g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Fat\n\n12.27g"
+                android:text="Fat\n\n8.9g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Protein\n\n8.33g"
+                android:text="Protein\n\n16.5g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
@@ -179,17 +179,27 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
 
-                android:text="\n225g Quinoa,
-25g Butter,
-1 Chopped Red Chilli,
-1 clove finely chopped Garlic,
-400g Chicken Breast,
-3 tbs Olive Oil,
-Handful Black Olives,
-1 chopped Red Onions,
-100f Feta,
-Chopped Mint,
-Juice of 1/2 Lemon\n
+                android:text="\n1 tbsp Olive Oil
+
+1 large Onion
+
+1 clove peeled crushed Garlic
+
+2 tbsp Worcestershire sauce
+
+3tsp Tomato Puree
+
+500g Turkey Mince
+
+1 large Eggs
+
+85g Breadcrumbs
+
+2 tbsp Barbeque Sauce
+
+800g Cannellini Beans
+
+2 tbsp Parsley\n
 "
                 android:background="@drawable/edge"
                 android:textSize="20sp" />
@@ -210,13 +220,16 @@ Juice of 1/2 Lemon\n
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
                 android:background="@drawable/edge"
-                android:text="\n 1. Cook the quinoa following the pack instructions, then rinse in cold water and drain thoroughly. Meanwhile, mix the butter, chilli and garlic into a paste.
-\n2. Toss the chicken fillets in 2 tsp of the olive oil with some seasoning.
-\n3. Lay in a hot griddle pan and cook for 3-4 mins each side or until cooked through. Transfer to a plate, dot with the spicy butter and set aside to melt.
-\n4. Next, tip the tomatoes, olives, onion, feta and mint into a bowl.
-Toss in the cooked quinoa.
-\n5. Stir through the remaining olive oil, lemon juice and zest, and season well.
-\n6. Serve with the chicken fillets on top, drizzled with any buttery chicken juices.\n
+                android:text="\n1.Heat oven to 180C/160C fan/gas 4.
+\n2.Heat the oil in a large frying pan and cook the onion for 8-10 mins until softened.
+\n3.Add the garlic, Worcestershire sauce and 2 tsp tomato puree, and stir until combined.
+\n4.Set aside to cool.
+\n5.Put the turkey mince, egg, breadcrumbs and cooled onion mix in a large bowl and season well.
+\n6.Mix everything to combine, then shape into a rectangular loaf and place in a large roasting tin.
+\n7.Spread 2 tbsp barbecue sauce and tomato puree.
+\n8.Season and set aside.
+\n9.When the meatloaf has had its initial cooking time, scatter the beans around the outside and bake for 15 mins more until the meatloaf is cooked through and the beans are piping hot.
+\n10.Scatter over the parsley and serve the meatloaf in slices.\n
 "
                 android:textSize="20sp"
                 />

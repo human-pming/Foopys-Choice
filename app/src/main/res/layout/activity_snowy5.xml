@@ -26,7 +26,7 @@
                 android:layout_marginTop="30dp"
                 android:layout_marginBottom="20dp"
                 android:layout_marginLeft="20dp"
-                android:src="@drawable/salad"
+                android:src="@drawable/bol"
                 tools:ignore="DuplicateIds" />
 
 
@@ -41,13 +41,13 @@
 
                 <TextView
                     android:id="@+id/textView3"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
                     android:layout_marginTop="25dp"
-                    android:layout_marginEnd="5dp"
+                    android:layout_marginEnd="10dp"
                     android:layout_marginBottom="141dp"
-                    android:text="Chicken Quinoa Greek Salad"
+                    android:text="Bolognese Spaghetti"
                     android:textSize="23sp"
                     android:textStyle="bold"
                     app:layout_constraintBottom_toBottomOf="parent"
@@ -86,7 +86,7 @@
                     android:layout_marginEnd="16dp"
                     android:numStars="5"
                     android:progressTint="#568A35"
-                    android:rating="2"
+                    android:rating="3"
                     android:stepSize="0.5"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.0"
@@ -129,28 +129,28 @@
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Calories\n(per 150g)\n 150.75kcal"
+                android:text="Calories\n(per 150g)\n 150kcal"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Carbs\n\n1.59g"
+                android:text="Carbs\n\n13.5g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Fat\n\n12.27g"
+                android:text="Fat\n\n7.5g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Protein\n\n8.33g"
+                android:text="Protein\n\n6g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
@@ -179,17 +179,7 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
 
-                android:text="\n225g Quinoa,
-25g Butter,
-1 Chopped Red Chilli,
-1 clove finely chopped Garlic,
-400g Chicken Breast,
-3 tbs Olive Oil,
-Handful Black Olives,
-1 chopped Red Onions,
-100f Feta,
-Chopped Mint,
-Juice of 1/2 Lemon\n
+                android:text="\n1 package spaghetti, 2 tablespoons olive oil, 3 slices bacon, 1 large onion, 1 stalk celery, 1 carrot, 1 teaspoon dried oregano, 3 cloves garlic, 1 pound ground beef, 2 tablespoons balsamic vinegar, 2 cans crushed tomatoes, 2 tablespoons tomato paste, 2 teaspoons white sugar, salt and black pepper, 2 tablespoons chopped fresh basil, ¼ cup Parmesan cheese\n
 "
                 android:background="@drawable/edge"
                 android:textSize="20sp" />
@@ -210,13 +200,13 @@ Juice of 1/2 Lemon\n
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
                 android:background="@drawable/edge"
-                android:text="\n 1. Cook the quinoa following the pack instructions, then rinse in cold water and drain thoroughly. Meanwhile, mix the butter, chilli and garlic into a paste.
-\n2. Toss the chicken fillets in 2 tsp of the olive oil with some seasoning.
-\n3. Lay in a hot griddle pan and cook for 3-4 mins each side or until cooked through. Transfer to a plate, dot with the spicy butter and set aside to melt.
-\n4. Next, tip the tomatoes, olives, onion, feta and mint into a bowl.
-Toss in the cooked quinoa.
-\n5. Stir through the remaining olive oil, lemon juice and zest, and season well.
-\n6. Serve with the chicken fillets on top, drizzled with any buttery chicken juices.\n
+                android:text="\n1. Bring a large pot of lightly salted water to a rolling boil. Cook the spaghetti in the boiling water until cooked through yet firm to the bite, about 12 minutes; drain.
+
+\n2. Heat the olive oil in a large pot over medium heat. Cook the bacon in the oil until crisp, 8 to 10 minutes. Stir the onion, celery, carrot, and oregano into the bacon; continue cooking until the vegetables begin to soften, another 8 to 10 minutes. Add the garlic and cook until fragrant, about 2 minutes. Crumble the ground beef into the vegetable mixture; cook and stir until the beef is completely cooked and no longer pink, 8 to 10 minutes.
+
+\n3. Pour the balsamic vinegar over the ground beef mixture; allow to simmer until the liquid evaporates, about 5 minutes. Stir the crushed tomatoes, tomato paste, and sugar into the ground beef mixture; bring the mixture to a boil, season with salt and black pepper, and remove from heat. Stir the fresh basil into the mixture.
+
+\n4. Ladle the sauce over the cooked spaghetti. Top with Parmesan cheese to serve.\n
 "
                 android:textSize="20sp"
                 />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (c) Facebook, Inc. and its affiliates. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.facebook.witai.voicedemo">
+    package="com.facebook.witai.foopyschoice">
 
     <!-- Added permissions -->
     <uses-permission android:name="android.permission.INTERNET" />
@@ -14,33 +14,33 @@
         android:roundIcon="@mipmap/ic_food_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Sunny1"></activity>
-        <activity android:name=".Sunny2"></activity>
-        <activity android:name=".Sunny3"></activity>
-        <activity android:name=".Sunny4"></activity>
-        <activity android:name=".Sunny5"></activity>
-        <activity android:name=".Rainy1"></activity>
-        <activity android:name=".Rainy2"></activity>
-        <activity android:name=".Rainy3"></activity>
-        <activity android:name=".Rainy4"></activity>
-        <activity android:name=".Rainy5"></activity>
-        <activity android:name=".Cloudy1"></activity>
-        <activity android:name=".Cloudy2"></activity>
-        <activity android:name=".Cloudy3"></activity>
-        <activity android:name=".Cloudy4"></activity>
-        <activity android:name=".Cloudy5"></activity>
-        <activity android:name=".Snowy1"></activity>
-        <activity android:name=".Snowy2"></activity>
-        <activity android:name=".Snowy3"></activity>
-        <activity android:name=".Snowy4"></activity>
-        <activity android:name=".Snowy5"></activity>
-        <activity android:name=".Windy1"></activity>
-        <activity android:name=".Windy2"></activity>
-        <activity android:name=".Windy3"></activity>
-        <activity android:name=".Windy4"></activity>
-        <activity android:name=".Windy5"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Sunny1"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Sunny2"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Sunny3"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Sunny4"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Sunny5"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Rainy1"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Rainy2"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Rainy3"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Rainy4"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Rainy5"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Cloudy1"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Cloudy2"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Cloudy3"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Cloudy4"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Cloudy5"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Snowy1"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Snowy2"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Snowy3"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Snowy4"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Snowy5"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Windy1"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Windy2"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Windy3"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Windy4"></activity>
+        <activity android:name="com.facebook.witai.foopyschoice.Windy5"></activity>
 
-        <activity android:name=".MainActivity">
+        <activity android:name="com.facebook.witai.foopyschoice.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -26,7 +26,7 @@
                 android:layout_marginTop="30dp"
                 android:layout_marginBottom="20dp"
                 android:layout_marginLeft="20dp"
-                android:src="@drawable/salad"
+                android:src="@drawable/sou"
                 tools:ignore="DuplicateIds" />
 
 
@@ -47,7 +47,7 @@
                     android:layout_marginTop="25dp"
                     android:layout_marginEnd="5dp"
                     android:layout_marginBottom="141dp"
-                    android:text="Chicken Quinoa Greek Salad"
+                    android:text="Broccoli Soup"
                     android:textSize="23sp"
                     android:textStyle="bold"
                     app:layout_constraintBottom_toBottomOf="parent"
@@ -129,28 +129,28 @@
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Calories\n(per 150g)\n 150.75kcal"
+                android:text="Calories\n(per 150g)\n 129kcal"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Carbs\n\n1.59g"
+                android:text="Carbs\n\n10.5g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Fat\n\n12.27g"
+                android:text="Fat\n\n8.7g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Protein\n\n8.33g"
+                android:text="Protein\n\n2.9g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
@@ -179,17 +179,7 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
 
-                android:text="\n225g Quinoa,
-25g Butter,
-1 Chopped Red Chilli,
-1 clove finely chopped Garlic,
-400g Chicken Breast,
-3 tbs Olive Oil,
-Handful Black Olives,
-1 chopped Red Onions,
-100f Feta,
-Chopped Mint,
-Juice of 1/2 Lemon\n
+                android:text="\n4 cups water, 4 cups broccoli florets, 2 tablespoons margarine, 1 onion, 1 large stalk celery, ⅓ cup flour, 2 tablespoons chicken powder, 2 ½ cups milk, ¼ teaspoon ground nutmeg, ¼ teaspoon black pepper, ½ cup shredded Cheddar cheese\n
 "
                 android:background="@drawable/edge"
                 android:textSize="20sp" />
@@ -210,13 +200,13 @@ Juice of 1/2 Lemon\n
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
                 android:background="@drawable/edge"
-                android:text="\n 1. Cook the quinoa following the pack instructions, then rinse in cold water and drain thoroughly. Meanwhile, mix the butter, chilli and garlic into a paste.
-\n2. Toss the chicken fillets in 2 tsp of the olive oil with some seasoning.
-\n3. Lay in a hot griddle pan and cook for 3-4 mins each side or until cooked through. Transfer to a plate, dot with the spicy butter and set aside to melt.
-\n4. Next, tip the tomatoes, olives, onion, feta and mint into a bowl.
-Toss in the cooked quinoa.
-\n5. Stir through the remaining olive oil, lemon juice and zest, and season well.
-\n6. Serve with the chicken fillets on top, drizzled with any buttery chicken juices.\n
+                android:text="\n1. In a medium-sized cooking pot, add water and broccoli florets and bring to boil; reduce heat and cook for about 3 minutes. Drain, reserving all of the water.
+
+\n2. In a food processor or blender, process half the cooked broccoli until fairly smooth. Chop remaining broccoli and set aside.
+
+\n3. n a heavy-bottomed cooking pot, melt butter or margarine, add onion and celery and cook for about 3 to 4 minutes until soft. Stir in flour; cook, stirring constantly for about 1 to 2 minutes. Add reserved water and chicken bouillon granules, and bring to boil, stirring constantly. Reduce heat to medium; simmer, stirring constantly until thickened.
+
+\n4. Stir in milk, nutmeg, pepper, and processed and chopped broccoli, and heat through. Adjust seasonings to taste. Serve garnished with grated cheddar cheese.\n
 "
                 android:textSize="20sp"
                 />

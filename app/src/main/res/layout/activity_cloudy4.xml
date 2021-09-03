@@ -26,7 +26,7 @@
                 android:layout_marginTop="30dp"
                 android:layout_marginBottom="20dp"
                 android:layout_marginLeft="20dp"
-                android:src="@drawable/salad"
+                android:src="@drawable/tandoori"
                 tools:ignore="DuplicateIds" />
 
 
@@ -42,10 +42,10 @@
                 <TextView
                     android:id="@+id/textView3"
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_height="match_parent"
                     android:layout_marginStart="10dp"
                     android:layout_marginTop="25dp"
-                    android:layout_marginEnd="5dp"
+                    android:layout_marginEnd="10dp"
                     android:layout_marginBottom="141dp"
                     android:text="Tandoori Chicken"
                     android:textSize="23sp"
@@ -86,7 +86,7 @@
                     android:layout_marginEnd="16dp"
                     android:numStars="5"
                     android:progressTint="#568A35"
-                    android:rating="2"
+                    android:rating="4"
                     android:stepSize="0.5"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.0"
@@ -129,28 +129,28 @@
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Calories\n(per 150g)\n 150.75kcal"
+                android:text="Calories\n(per 150g)\n 330kcal"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Carbs\n\n1.59g"
+                android:text="Carbs\n\n6.6g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Fat\n\n12.27g"
+                android:text="Fat\n\n17.76g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Protein\n\n8.33g"
+                android:text="Protein\n\n35g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
@@ -179,17 +179,29 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
 
-                android:text="\n225g Quinoa,
-25g Butter,
-1 Chopped Red Chilli,
-1 clove finely chopped Garlic,
-400g Chicken Breast,
-3 tbs Olive Oil,
-Handful Black Olives,
-1 chopped Red Onions,
-100f Feta,
-Chopped Mint,
-Juice of 1/2 Lemon\n
+                android:text="\n2 juice lemons
+
+4 tsp paprika
+
+2 finely chopped red onions
+
+16 skinless chicken thighs
+
+For brushing vegetable oil
+
+300ml Greek yogurt
+
+Large piece ginger
+
+4 garlic clove
+
+34 tsp garam masala
+
+3/4 tsp ground cumin
+
+1/2 tsp chilli powder
+
+1/4 tsp turmeric\n
 "
                 android:background="@drawable/edge"
                 android:textSize="20sp" />
@@ -210,13 +222,13 @@ Juice of 1/2 Lemon\n
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
                 android:background="@drawable/edge"
-                android:text="\n 1. Cook the quinoa following the pack instructions, then rinse in cold water and drain thoroughly. Meanwhile, mix the butter, chilli and garlic into a paste.
-\n2. Toss the chicken fillets in 2 tsp of the olive oil with some seasoning.
-\n3. Lay in a hot griddle pan and cook for 3-4 mins each side or until cooked through. Transfer to a plate, dot with the spicy butter and set aside to melt.
-\n4. Next, tip the tomatoes, olives, onion, feta and mint into a bowl.
-Toss in the cooked quinoa.
-\n5. Stir through the remaining olive oil, lemon juice and zest, and season well.
-\n6. Serve with the chicken fillets on top, drizzled with any buttery chicken juices.\n
+                android:text="\n1. Mix the lemon juice with the paprika and red onions in a large shallow dish.
+
+\n2. Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins.
+
+\n3. Mix all of the marinade ingredients together and pour over the chicken. Give everything a good mix, then cover and chill for at least 1 hr. This can be done up to a day in advance.
+
+\n4. Heat the grill. Lift the chicken pieces onto a rack over a baking tray. Brush over a little oil and grill for 8 mins on each side or until lightly charred and completely cooked through.\n
 "
                 android:textSize="20sp"
                 />

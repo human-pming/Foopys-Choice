@@ -41,11 +41,11 @@
 
                 <TextView
                     android:id="@+id/textView3"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
                     android:layout_marginTop="25dp"
-                    android:layout_marginEnd="5dp"
+                    android:layout_marginEnd="10dp"
                     android:layout_marginBottom="141dp"
                     android:text="Spanish Tortilla"
                     android:textSize="23sp"
@@ -86,7 +86,7 @@
                     android:layout_marginEnd="16dp"
                     android:numStars="5"
                     android:progressTint="#568A35"
-                    android:rating="2"
+                    android:rating="3"
                     android:stepSize="0.5"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.0"
@@ -129,28 +129,28 @@
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Calories\n(per 150g)\n 150.75kcal"
+                android:text="Calories\n(per 150g)\n 313.5kcal"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Carbs\n\n1.59g"
+                android:text="Carbs\n\n43.2g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Fat\n\n12.27g"
+                android:text="Fat\n\n9.6g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
             <TextView
                 android:layout_width="100dp"
                 android:layout_height="70dp"
-                android:text="Protein\n\n8.33g"
+                android:text="Protein\n\n12.2g"
                 android:textAlignment="center"
                 android:textSize="15sp"
                 />
@@ -179,17 +179,25 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
 
-                android:text="\n225g Quinoa,
-25g Butter,
-1 Chopped Red Chilli,
-1 clove finely chopped Garlic,
-400g Chicken Breast,
-3 tbs Olive Oil,
-Handful Black Olives,
-1 chopped Red Onions,
-100f Feta,
-Chopped Mint,
-Juice of 1/2 Lemon\n
+                android:text="\n1 sliced Onion
+
+4 tbsp Olive Oil
+
+25g Butter
+
+400g Potatoes
+
+6 cloves Garlic
+
+8 Eggs
+
+Parsley
+
+1 Baguette
+
+4 Vine Tomatoes
+
+Olive Oil\n
 "
                 android:background="@drawable/edge"
                 android:textSize="20sp" />
@@ -210,16 +218,18 @@ Juice of 1/2 Lemon\n
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
                 android:background="@drawable/edge"
-                android:text="\n 1. Cook the quinoa following the pack instructions, then rinse in cold water and drain thoroughly. Meanwhile, mix the butter, chilli and garlic into a paste.
-\n2. Toss the chicken fillets in 2 tsp of the olive oil with some seasoning.
-\n3. Lay in a hot griddle pan and cook for 3-4 mins each side or until cooked through. Transfer to a plate, dot with the spicy butter and set aside to melt.
-\n4. Next, tip the tomatoes, olives, onion, feta and mint into a bowl.
-Toss in the cooked quinoa.
-\n5. Stir through the remaining olive oil, lemon juice and zest, and season well.
-\n6. Serve with the chicken fillets on top, drizzled with any buttery chicken juices.\n
+                android:text="\n 1.Put a large non-stick frying pan on a low heat.
+\n2.Cook the onion slowly in the oil and butter until soft but not brown - this should take about 15 mins.
+\n3.Add the potatoes, cover the pan and cook for a further 15-20 mins, stirring occasionally to make sure they fry evenly.
+\n4.When the potatoes are soft and the onion is shiny, crush 2 garlic cloves and stir in, followed by the beaten eggs.
+\n5.Put the lid back on the pan and leave the tortilla to cook gently.
+\n6.After 20 mins, the edges and base should be golden, the top set but the middle still a little wobbly.
+\n7.To turn it over, slide it onto a plate and put another plate on top, turn the whole thig over and slide it back into the pan to finish cooking.
+\n8.Once cooked, transfer to a plate and serve the tortilla warm or cold, scattered with the chopped parsley.
+\n9.To accompany, take slices of warmed baguette, stab all over with a fork and rub with the remaining garlic, pile on grated tomatoes and season with sea salt and a drizzle of olive oil.\n
 "
-                android:textSize="20sp"
-                />
+                android:textSize="20sp" />
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
