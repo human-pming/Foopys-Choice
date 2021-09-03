@@ -1,4 +1,4 @@
-# Foopy's Choice
+# Foopy's Choice 🥞
 
 Weather-based food recommendation service <br/>(2021.08.03~2021.09.03)
 
@@ -14,7 +14,7 @@ There are the key points we build.
 *   Integrate Wit with Android app
 *   Randomly recommend recipes based on weather
 
-Tell Foopy about today's weather. Foopy will recommend today's food right away! <br/>If you are dissatisfied, ask Foopy again and get new recommendations<br/>
+Tell Foopy about today's weather. Foopy will recommend today's food right away! <br/>If you are dissatisfied, ask Foopy again and get new recommendations 👍<br/>
 
 영상첨부하기
 
@@ -72,4 +72,4 @@ Foopy: "Let's see some good recipes to eat in this weather. Press show button."
 * [황세라](https://github.com/serahwang)
 * [이현](https://github.com/hyuni0316)
 * 오윤정
-* 
+* 장혜원
