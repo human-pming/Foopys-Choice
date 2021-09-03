@@ -72,4 +72,4 @@ Foopy: "Let's see some good recipes to eat in this weather. Press show button."
 * [황세라](https://github.com/serahwang)
 * [이현](https://github.com/hyuni0316)
 * 오윤정
-* 장혜원
+* [장혜원](https://github.com/jhw001101)
