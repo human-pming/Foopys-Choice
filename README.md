@@ -13,12 +13,14 @@ In this project, we will be creating a voice-enabled Android app that greets the
 *   Integrate Wit with Android app
 *   Randomly recommend recipes based on weather
 
+영상첨부하기
+
 ## Prerequisites  
 
 You can download this applicaiton in google play store(to be modified)
 
 If you want to modify the files or download the files
-*   Clone this repository [Foopy's Choice](https://github.com/guen-a-park/Foopys-Choice.git) or Download Zip
+*   Clone the repository [Foopy's Choice](https://github.com/guen-a-park/Foopys-Choice.git) or Download Zip
 *   Download and install [Android Studio](https://developer.android.com/studio)
 *   Have an Android device/emulator with
     *   Internet access
@@ -32,24 +34,26 @@ When designing applications with voice interactions, it's important to understan
 
 Let's consider the following conversation as the happy path:
 ```
-Wit:  "Hi, welcome to the Wit.ai voice demo. I'm Wit. What is your name?"
+Foopy:  "Hello! I am Foopy taking care of your happy diet.
+      I will recommend a suitable diet according to the weather. How’s the weather outside?"
 
-User: "My name is Pan"
+User: "It’s a bit blowy day today"
 
-Wit:  "Nice to meet you Pan!"
+Foopy:  "Let's see some good recipes to eat in this weather. Press show button."
 ```
 
 Now let's think about scenarios were the user can deviate:
 ```
-Wit:  "Hi, welcome to the Wit.ai speech demo. I'm Wit. What is your name?"
+Foopy:  "Hello! I am Foopy taking care of your happy diet.
+      I will recommend a suitable diet according to the weather. How’s the weather outside?"
 
-User: "I want pizza"
+User: "I'm so hungry"
 
-Wit:  "Sorry, I didn't get that. What is your name?"
+Foopy:  "I'm sorry. Please say it again."
 
-User: "My name is Pan"
+User: "The sky looks stormy."
 
-Wit:  "Nice to meet you Pan!"
+Foopy:  "Let's see some good recipes to eat in this weather. Press show button."
 ```
 
 
