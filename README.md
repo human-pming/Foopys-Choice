@@ -66,5 +66,10 @@ Foopy: "Let's see some good recipes to eat in this weather. Press show button."
 *   [wit.ai](https://wit.ai/)<br/>
 *   [themealdb](https://www.themealdb.com/)
 
+## Contributors
 
-
+* [박근아](https://github.com/guen-a-park)
+* [황세라](https://github.com/serahwang)
+* [이현](https://github.com/hyuni0316)
+* 오윤정
+* 
