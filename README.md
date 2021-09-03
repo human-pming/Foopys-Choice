@@ -1,5 +1,7 @@
 # Get Food Recommendation with Wit.ai
 
+
+https://user-images.githubusercontent.com/77844152/131990939-dd0d5262-b049-4c74-99c8-30d718669a32.png
 ## Overview
 
 In this tutorial, we will be creating a voice-enabled Android app that greets the user. The app will be able to process the user's voice response and respond to the user appropriately. The key things we will explore is how to:
@@ -8,7 +10,7 @@ In this tutorial, we will be creating a voice-enabled Android app that greets th
 *   Create and train a Wit app to do natural language processing (NLP)
 *   Integrate Wit with your Android app
 
-
+영상올리기
 
 ## Prerequisites
 
@@ -46,3 +48,10 @@ User: "My name is Pan"
 
 Wit:  "Nice to meet you Pan!"
 ```
+## Reference
+https://github.com/haerulmuttaqin/FoodsApp-starting-code
+https://github.com/wit-ai/android-voice-demo
+https://wit.ai/
+https://www.themealdb.com/
+
+
