@@ -16,7 +16,9 @@ There are the key points we build.
 
 Tell Foopy about today's weather. Foopy will recommend today's food right away! <br/>If you are dissatisfied, ask Foopy again and get new recommendations 👍<br/>
 
-영상첨부하기
+Be careful with the sound🔊
+
+<iframe width="956" height="538" src="https://www.youtube.com/embed/qVZyhcS-yyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Prerequisites  
 
