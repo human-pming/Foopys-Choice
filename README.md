@@ -2,17 +2,19 @@
 
 Weather-based food recommendation service
 (2021.08.03~2021.09.03)
+<img src="https://user-images.githubusercontent.com/77844152/131990939-dd0d5262-b049-4c74-99c8-30d718669a32.png" width="300" height="300"> 
 
-https://user-images.githubusercontent.com/77844152/131990939-dd0d5262-b049-4c74-99c8-30d718669a32.png
 ## Overview
 
-In this project, we will be creating a voice-enabled Android app that greets the user. The app will be able to process the user's voice response and respond to the user appropriately. The key things we will explore is how to:
+In this project, we created a voice-enabled Android app that recommend the foods for users. 
+There are the key things we do???!
 
 *   Design the user interaction
 *   Create and train a Wit app to do natural language processing (NLP) to catogorize weather
 *   Integrate Wit with Android app
 *   Randomly recommend recipes based on weather
 
+Tell Foopy about today's weather. Foopy will recommend today's food right away!
 영상첨부하기
 
 ## Prerequisites  
