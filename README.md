@@ -40,7 +40,7 @@ Let's consider the following conversation as the happy path:
 Foopy: "Hello! I am Foopy taking care of your happy diet.
       I will recommend a suitable diet according to the weather. How’s the weather outside?"
 
-User: "It’s a bit blowy day today"
+User: "It’s a bit blowy day."
 
 Foopy: "Let's see some good recipes to eat in this weather. Press show button."
 ```
