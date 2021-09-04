@@ -16,8 +16,6 @@ There are the key points we build.
 
 Tell Foopy about today's weather. Foopy will recommend today's food right away! <br/>If you are dissatisfied, ask Foopy again and get new recommendations 👍<br/>
 
-Be careful with the sound🔊
-
 https://user-images.githubusercontent.com/77844152/132012703-8054ec47-bff0-41d5-9034-8ffca07ba90b.mp4
 
 
