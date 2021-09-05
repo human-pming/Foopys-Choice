@@ -67,6 +67,7 @@ Foopy: "Let's see some good recipes to eat in this weather. Press show button."
 *   [wit-ai/android-voice-demo](https://github.com/wit-ai/android-voice-demo)<br/>
 *   [wit.ai](https://wit.ai/)<br/>
 *   [themealdb](https://www.themealdb.com/)
+*   [book recommendation using wit](https://betterprogramming.pub/create-your-own-book-recommendation-application-using-wit-ai-and-beautiful-soup-8d0343288d28)
 
 ## Contributors
 
